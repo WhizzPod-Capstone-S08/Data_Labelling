@@ -1,0 +1,5 @@
+Person
+Traffic Light
+Road Markings
+Small Roads
+Bus Stop
