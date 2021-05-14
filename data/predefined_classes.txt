@@ -1,5 +1,6 @@
 Person
-Traffic Light
+Belisha beacons
 Road Markings
 Small Roads
 Bus Stop
+Traffic Light
